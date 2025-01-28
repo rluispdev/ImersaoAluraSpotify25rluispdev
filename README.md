@@ -1,4 +1,4 @@
-![Template rluipdev](template/FrontEndSpotify25.png)
+![Template rluipdev](FrontEndSpotify25.png)
  
 # Imersão Front-End 2ª Edição - Alura 
 
