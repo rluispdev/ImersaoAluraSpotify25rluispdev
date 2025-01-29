@@ -8,7 +8,7 @@ Aprender a construir uma pagina do Spotify utilizando HTML, CSS e JavaScript.
 
 - **Aula1**: Revisão - HTML e CSS.
 - **Aula2**: Estilo Avançado e posicionamento.
-- **Aula3**:  🔄
+- **Aula3**:  Layout Flexbox, Pseudo-classes e Responsividade em CSS.
 - **Aula4**:  🔄
 - **Aula5**:  🔄
  
